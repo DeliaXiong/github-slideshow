@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+the replacement seem to be a little hard to find...as 3 dots
 Use the left arrow to go back!
